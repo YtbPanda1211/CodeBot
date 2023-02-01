@@ -1,0 +1,32 @@
+[
+    {
+        "threadID": "5518474678241661",
+        "shortcuts": [
+            {
+                "id": "ygbEeuXWBA",
+                "input": "cc",
+                "output": "Chửi thề cc"
+            },
+            {
+                "id": "ZAhPeaYMPU",
+                "input": "Diệu",
+                "output": "Diệu cái thằng cha mày"
+            }
+        ]
+    },
+    {
+        "threadID": "5544527015630212",
+        "shortcuts": [
+            {
+                "id": "dobomBlYrf",
+                "input": "Hi",
+                "output": "Hello"
+            },
+            {
+                "id": "neCapFlffu",
+                "input": "Hello",
+                "output": "Hi"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "horizon-sp",
+  "version": "1.1.1",
+  "description": "Support cho FCA Horizon Nhằm Fix Lỗi Cập Nhật,...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fca-sp"
+  ],
+  "author": "KanzuWakazaki",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "",
+    "fs-extra": "",
+    "axios": ""
+  }
+}
